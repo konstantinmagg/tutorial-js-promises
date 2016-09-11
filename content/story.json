@@ -1,0 +1,10 @@
+{
+    "heading": "A story about something",
+    "chapterUrls": [
+        "content/chapter-1.json",
+        "content/chapter-2.json",
+        "content/chapter-3.json",
+        "content/chapter-4.json",
+        "content/chapter-5.json"
+    ]
+}

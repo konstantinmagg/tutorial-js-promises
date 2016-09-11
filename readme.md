@@ -1,5 +1,14 @@
 # JavaScript Promises
 
+## Getting Started
+Let's assume that **Lite-server** is installed globally.
+
+```
+lite-server
+```
+
+## References
+
 ## Example stoies
 Source: [http://www.html5rocks.com/en/tutorials/es6/promises](http://www.html5rocks.com/en/tutorials/es6/promises)
 
