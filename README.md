@@ -1,14 +1,15 @@
-# Working with JavaScript Promises
+# tutorial-js-promises
+Working with JavaScript Promises
 
 ## Spin it Up
-Do you know John Papa's [lite-server](https://www.npmjs.com/package/lite-server)? If not, give it a try. Here we assume, you have it installed globally.
+Here we use John Papa's [lite-server](https://www.npmjs.com/package/lite-server). And we assume, we have it installed globally.
 
 ```
 lite-server
 ```
 
 ## Credits
-Special thanks to the authors of these tutorials. Was a great help, digging into this topic.
+Special thanks to the authors of these tutorials. Was a great help, digging into the topic.
 
 ### JavaScript Promises
 Source: [http://www.html5rocks.com/en/tutorials/es6/promises](http://www.html5rocks.com/en/tutorials/es6/promises)
