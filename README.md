@@ -9,7 +9,7 @@ lite-server
 ```
 
 ## Credits
-Special thanks to the authors of these tutorials. Was a great help, digging into the topic.
+These tutorials are a great help digging into the topic. Thanks to the authors.
 
 ### JavaScript Promises
 Source: [http://www.html5rocks.com/en/tutorials/es6/promises](http://www.html5rocks.com/en/tutorials/es6/promises)
